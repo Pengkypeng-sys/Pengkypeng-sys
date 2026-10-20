@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:36bcf7&height=220&section=header&text=Feriman&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%26%20IT%20Staff&descSize=20&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="./assets/banner.svg" />
 
 <!-- Typing animation -->
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://porto-feri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Pengkypeng-sys&style=for-the-badge&color=1f6feb&label=Profile+Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pengkypeng-sys.Pengkypeng-sys&left_color=gray&right_color=1f6feb" />
 </p>
 
 ---
@@ -36,10 +36,10 @@ const feriman = {
 ### 📌 Featured Projects
 | Project | Deskripsi | Stack |
 |---|---|---|
-| 🏫 [Al-Fakhir School Ecosystem](#) | LMS, pembayaran, voting, absensi + Android app | Next.js · NestJS |
-| 🎮 [Alfakhir School Games](#) | Game edukasi untuk siswa SD | Flutter/Flame · NestJS |
-| 💍 [Nikahin](#) | SaaS undangan pernikahan multi-tenant | Next.js |
-| ⌨️ [Samaqu](#) | Custom Android keyboard untuk online seller | TypeScript |
+| 🏫 [Al-Fakhir School Ecosystem](https://porto-feri.vercel.app) | LMS, pembayaran, voting, absensi + Android app | Next.js · NestJS |
+| 🎮 [Alfakhir School Games](https://porto-feri.vercel.app) | Game edukasi untuk siswa SD | Flutter/Flame · NestJS |
+| 💍 [Nikahin](https://porto-feri.vercel.app) | SaaS undangan pernikahan multi-tenant | Next.js |
+| ⌨️ [Samaqu](https://github.com/Pengkypeng-sys/samaqu_repo) | Custom Android keyboard untuk online seller | TypeScript |
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -58,5 +58,3 @@ const feriman = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pengkypeng-sys/Pengkypeng-sys/output/github-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/Pengkypeng-sys/Pengkypeng-sys/output/github-snake.svg" />
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36bcf7,50:1f6feb,100:0d1117&height=120&section=footer" />
