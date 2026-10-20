@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://porto-feri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ferimann/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:feriman.getup@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Pengkypeng-sys.Pengkypeng-sys&left_color=gray&right_color=1f6feb" />
 </p>
 
@@ -22,6 +22,7 @@ const feriman = {
   certifications: ["Cisco CCNA", "AWS Cloud Computing"],
   focus: ["School Digital Ecosystem", "SaaS Products", "Self-hosted Infra"],
   freelance: "IT & Automation since 2020",
+  contact: "feriman.getup@gmail.com",
 };
 ```
 
@@ -45,7 +46,7 @@ const feriman = {
 | 🧾 **Kuitansi App** | Generator kuitansi & bukti pembayaran sekolah | Next.js · Docker |
 | 🗳️ **E-Voting OSIS** | Sistem pemilihan ketua OSIS digital | Web App |
 | 🎮 [**Alfakhir School Games**](https://porto-feri.vercel.app) | Platform game edukasi untuk siswa SD + CMS konten | Flutter/Flame · NestJS · Next.js |
-| 🌐 **Website SD Al-Fakhir** | Website sekolah dengan animasi & pendaftaran PPDB online | anime.js · Google Sheets · Vercel |
+| 🌐 [**Website SD Al-Fakhir**](https://sdialfakhir.sch.id) | Website sekolah dengan animasi & pendaftaran PPDB online | anime.js · Google Sheets · Vercel |
 | 📝 **Penilaian Sidang KTI** | Penilaian online sidang karya tulis, juri menilai sambil membaca PDF | Google Sheets · Apps Script |
 | 👥 **Seleksi Rekrutmen Guru** | Sistem interview & scoring calon guru | Google Sheets · Apps Script |
 
