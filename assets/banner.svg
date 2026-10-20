@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".5" stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#36bcf7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V180C1000 230 800 140 600 180S200 230 0 180Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 0H1200V180C1000 230 800 140 600 180S200 230 0 180Z;
+              M0 0H1200V190C1000 140 800 230 600 190S200 140 0 190Z;
+              M0 0H1200V180C1000 230 800 140 600 180S200 230 0 180Z"/>
+  </path>
+  <text x="600" y="95" text-anchor="middle" fill="#ffffff"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="700">Feriman</text>
+  <text x="600" y="140" text-anchor="middle" fill="#dbeafe"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Full Stack Developer &amp; IT Staff</text>
+</svg>
